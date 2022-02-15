@@ -1,1 +1,0 @@
-s1(10Nov2021:17:45:29):  ncverilog /home/chu/DLIC/hw2_ApproxAvg/sim/testfixture.v /home/chu/DLIC/hw2_ApproxAvg/src/CS.v +incdir+/home/chu/DLIC/hw2_ApproxAvg/src +nc64bit +access+r +define+SHM_FILE="CS.shm" +define+FSDB_FILE="CS.fsdb" 
