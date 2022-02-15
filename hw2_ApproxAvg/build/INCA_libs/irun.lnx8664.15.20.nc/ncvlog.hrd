@@ -1,0 +1,10 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-INCDIR
+/home/chu/DLIC/hw2_ApproxAvg/src
+-DEFINE
+SHM_FILE=\"CS.shm\"
+-DEFINE
+FSDB_FILE=\"CS.fsdb\"

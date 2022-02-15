@@ -1,0 +1,28 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
++incdir+/home/chu/DLIC/hw2_ApproxAvg/src
++nc64bit
++access+r
++define+SHM_FILE=\"CS.shm\"
++define+FSDB_FILE=\"CS.fsdb\"
+-MESSAGES
++EMGRLOG
+ncverilog.log
+-XLSTIME
+1636537529
+-XLKEEP
+-XLMODE
+./INCA_libs/irun.lnx8664.15.20.nc
+-RUNMODE
+-CDSLIB
+./INCA_libs/irun.lnx8664.15.20.nc/cds.lib
+-HDLVAR
+./INCA_libs/irun.lnx8664.15.20.nc/hdl.var
+-XLNAME
+ncverilog
+-XLVERSION
+"TOOL:	ncverilog	15.20-s084"
+-XLNAME
+./INCA_libs/irun.lnx8664.15.20.nc/caidcpuserver1_1464369
